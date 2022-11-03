@@ -1,3 +1,5 @@
+https://www.shuzhiduo.com/A/1O5EWVxWz7/  dnSpy对无源码EXE/DLL进行反编译修改教程
+
 # dnSpy - [Latest release](https://github.com/dnSpy/dnSpy/releases)
 
 dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available. Main features:
